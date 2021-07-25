@@ -4,7 +4,7 @@ export function Cards() {
 	return (
 		<div className="row">
 			<div className="col">
-				<div className="card">
+				<div className="card text-center">
 					<img
 						src="https://via.placeholder.com/150"
 						className="card-img-top"
@@ -13,7 +13,7 @@ export function Cards() {
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
-							SLorem ipsum dolor sit amet, consectetur adipiscing
+							Lorem ipsum dolor sit amet, consectetur adipiscing
 							elit. In consequat urna condimentum enim facilisis,
 							id imperdiet quam volutpat.
 						</p>
@@ -25,7 +25,7 @@ export function Cards() {
 			</div>
 
 			<div className="col">
-				<div className="card">
+				<div className="card text-center">
 					<img
 						src="https://via.placeholder.com/150"
 						className="card-img-top"
@@ -34,7 +34,7 @@ export function Cards() {
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
-							SLorem ipsum dolor sit amet, consectetur adipiscing
+							Lorem ipsum dolor sit amet, consectetur adipiscing
 							elit. In consequat urna condimentum enim facilisis,
 							id imperdiet quam volutpat.
 						</p>
@@ -46,7 +46,7 @@ export function Cards() {
 			</div>
 
 			<div className="col">
-				<div className="card">
+				<div className="card text-center">
 					<img
 						src="https://via.placeholder.com/150"
 						className="card-img-top"
@@ -55,7 +55,7 @@ export function Cards() {
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
-							SLorem ipsum dolor sit amet, consectetur adipiscing
+							Lorem ipsum dolor sit amet, consectetur adipiscing
 							elit. In consequat urna condimentum enim facilisis,
 							id imperdiet quam volutpat.
 						</p>
@@ -67,7 +67,7 @@ export function Cards() {
 			</div>
 
 			<div className="col">
-				<div className="card">
+				<div className="card text-center">
 					<img
 						src="https://via.placeholder.com/150"
 						className="card-img-top"
@@ -76,7 +76,7 @@ export function Cards() {
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
-							SLorem ipsum dolor sit amet, consectetur adipiscing
+							Lorem ipsum dolor sit amet, consectetur adipiscing
 							elit. In consequat urna condimentum enim facilisis,
 							id imperdiet quam volutpat.
 						</p>

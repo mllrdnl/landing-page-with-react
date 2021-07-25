@@ -18,8 +18,8 @@ export function Navbar() {
 					<span className="navbar-toggler-icon"></span>
 				</button>
 				<div className="collapse navbar-collapse" id="navbarNav">
-					<ul className="navbar-nav">
-						<li className="nav-item">
+					<ul className="navbar-nav ml-auto">
+						<li className="nav-item active">
 							<a
 								className="nav-link active"
 								aria-current="page"
@@ -28,18 +28,18 @@ export function Navbar() {
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">
+							<a className="nav-link active" href="#">
 								About
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-link" href="#">
+							<a className="nav-link active" href="#">
 								Services
 							</a>
 						</li>
 						<li className="nav-item">
 							<a
-								className="nav-link"
+								className="nav-link active"
 								href="#"
 								tabIndex="-1"
 								aria-disabled="true">

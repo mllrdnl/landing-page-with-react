@@ -16,9 +16,17 @@
 .jumbotron {
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 10px;
 }
 
-#navbarNav {
+.card-body {
     display: flex;
-    align-items: flex-end;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
+// .card-text {
+//     justify-content: center;
+//     align-self: center;
+// }
