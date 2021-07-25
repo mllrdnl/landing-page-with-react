@@ -12,8 +12,10 @@ export function Home() {
 	return (
 		<div>
 			<Navbar />
-			<Jumbotron />
-			<Cards />
+			<div className="container-fluid">
+				<Jumbotron />
+				<Cards />
+			</div>
 		</div>
 	);
 }
